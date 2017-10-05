@@ -1,0 +1,12 @@
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csprojResolveAssemblyReference.cache
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+c:\users\adaml\documents\visual studio 2017\Projects\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csprojResolveAssemblyReference.cache
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+C:\Users\adaml\Documents\GitHub\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
